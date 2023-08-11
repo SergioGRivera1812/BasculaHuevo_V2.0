@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasculaHuevo_V2.0", "BasculaHuevo_V2.0\BasculaHuevo_V2.0.csproj", "{AE698DDF-86AF-43D9-804D-6BA0067C5B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE698DDF-86AF-43D9-804D-6BA0067C5B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE698DDF-86AF-43D9-804D-6BA0067C5B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE698DDF-86AF-43D9-804D-6BA0067C5B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE698DDF-86AF-43D9-804D-6BA0067C5B85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {025E0401-A6A3-4B34-B6D5-3E043C82EBF1}
+	EndGlobalSection
+EndGlobal
